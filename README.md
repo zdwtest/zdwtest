@@ -1,16 +1,18 @@
-### Hi there 👋
+个人信息
+关于我
+你好！我目前就读于大二的软件工程专业。对编程充满热情，喜欢不断学习新技术和解决有趣的问题。
 
-<!--
-**zdwtest/zdwtest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+技能
+编程语言： Java, Python
+前端开发： HTML, CSS
+后端开发： Flask (Python)
+数据库： MySQL
+Personal Information
+About Me
+Hello! I currently a sophomore majoring in Software Engineering. I am passionate about programming, enjoy learning new technologies, and solving interesting problems.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills
+Programming Languages: Java, Python
+Front-end Development: HTML, CSS
+Back-end Development: Flask (Python)
+Databases: MySQL

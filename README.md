@@ -17,7 +17,7 @@ I'm a passionate **DevOps Engineer** focused on building, automating, and scalin
 
 Here's a real-time look at my personal server infrastructure, monitored by Prometheus and visualized in Grafana.
 
-[![My Server Status](https://img.shields.io/badge/Live%20Dashboard-View%20Status-blue?style=for-the-badge&logo=grafana)](https://grafana.anixops.com/public-dashboards/757c540b28f14c8891d4efd7306a30c6)
+[![My Server Status](https://img.shields.io/badge/Live%20Dashboard-View%20Status-blue?style=for-the-badge&logo=grafana)](https://grafana.anixops.com/public-dashboards/e76c8348d34c4f5187df823c96321cd5)
 
 ---
 

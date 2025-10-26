@@ -4,7 +4,7 @@
   <a href="https://www.anixops.com/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio%2FBlog-anixops.com-blue?style=flat-square&logo=read-the-docs" alt="My Blog">
   </a>
-  <a href="[Your LinkedIn Profile URL]" target="_blank">
+  <a href="https://www.linkedin.com/in/daweizhang-devops/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
   </a>
 </p>

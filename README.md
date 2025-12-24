@@ -35,7 +35,7 @@ My primary focus is on the DevOps lifecycle. I have hands-on experience with:
 
 ### 🌱 What I'm Currently Learning
 
-* [Mention a new tool or concept, e.g., eBPF, Cilium, or advanced K8s security]
+* K8s
 
 ### 📫 Get In Touch
 
